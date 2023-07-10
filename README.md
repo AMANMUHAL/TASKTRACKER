@@ -21,7 +21,7 @@ To run Task Tracker locally, make sure you have the following software installed
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
+   [git clone https://github.com/your-username/task-tracker.git](https://github.com/AMANMUHAL/TASKTRACKER.git)
    ```
 
 2. Navigate to the project directory
