@@ -4,6 +4,9 @@
 
 Task Tracker is a web application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js) and Redux for state management. It allows users to track and manage their tasks efficiently. The application is deployed using Cyclic.sh, an alternative to Heroku that simplifies the deployment process by allowing frontend and backend deployment in a single place.
 
+Deployed here ::
+https://bewildered-gray-sweater.cyclic.app/
+
 ## Features
 
 - Task management: Users can create, update, and delete tasks. Each task has a title, description, priority, and status (e.g., "To Do," "In Progress," "Completed").
