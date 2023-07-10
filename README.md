@@ -89,3 +89,4 @@ When contributing, please follow the existing code style and ensure that your ch
 
 - The Task Tracker application was inspired by various task management tools and tutorials available online.
 - Thanks to the creators and contributors of the MERN stack, Redux, and Cyclic.sh for their excellent tools and resources.
+- Special thanks to StackOverflow , ChatGPT , Youtube ✨ to resolving my doubts and to upskill myself 
