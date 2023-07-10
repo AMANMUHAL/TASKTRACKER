@@ -7,6 +7,7 @@ Task Tracker is a web application developed using the MERN stack (MongoDB, Expre
 - Task management: Users can create, update, and delete tasks. Each task has a title, description, priority, and status (e.g., "To Do," "In Progress," "Completed").
 - Filtering and sorting: Users can filter tasks by status and search for specific tasks. Tasks can be sorted by priority or creation date.
 - Responsive design: The application is designed to be fully responsive and work seamlessly across different devices and screen sizes.
+- Some feature are still in Development phase
 
 ## Prerequisites
 
